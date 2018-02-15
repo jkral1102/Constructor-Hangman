@@ -1,0 +1,23 @@
+{
+  "name": "hw",
+  "version": "1.0.0",
+  "description": "hw",
+  "main": "index.js",
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/jkral1102"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "require":"^2.4.20",
+    "prompt":"^1.0.0",
+    "inquirer": "^5.1.0"
+
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
